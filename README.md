@@ -1,4 +1,4 @@
-# ![Logo](SafeTwip.png)
+# ![Logo](resources/SafeTwip.png)
 
 Twip 을 통해 보여지는 영상도네이션을 미리 확인할 수 있습니다.
 
