@@ -45,7 +45,7 @@ Twip 을 통해 보여지는 영상도네이션을 미리 확인할 수 있습�
 ## Author
 
 * **Lee Eunhak** (R3turn.Dev) - *Idea & Development* - [Github](https://github.com/return0927), [Facebook](https://fb.com/R3turn.01)
-
+* **Heon** (from Charming_Jo Discord) - *Idea*
 
 ## License
 
