@@ -22,7 +22,7 @@ Twip 을 통해 보여지는 영상도네이션을 미리 확인할 수 있습�
 
 이제 스크립트를 설치할수 있습니다! 아래의 링크를 눌러서 `Install` 버튼을 눌러주세요.
 
-[설치하기](safe_twip.user.js)
+[설치하기](https://raw.githubusercontent.com/R3turn-Dev/SafeTwip/master/safe_twip.user.js)
 
 
 ## Author
