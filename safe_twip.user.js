@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         SafeTwip
 // @namespace    http://github.com/R3turn-Dev/SafeTwip
-// @version      1.0.1 Beta
+// @version      1.1
 // @description  Twip AlertBox에 영상도네 미리보기 기능을 추가해줍니다.
 // @author       R3turn-Dev @return0927
 // @match        https://twip.kr/widgets/alertbox/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/R3turn-Dev/SafeTwip/master/safe_twip.user.js
+// @updateURL    http://virtly.return0927.xyz:88/lastest.user.js
 // ==/UserScript==
 
 
